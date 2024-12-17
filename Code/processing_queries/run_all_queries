@@ -1,0 +1,14 @@
+# SPECIFY NUMBER OF SCENARIOS
+query=$1
+
+## LEAVE this as 2
+scen=$2
+
+dirlist=($(ls query_xml))
+
+sbatch --array [1-$scen] --export=name="${dirlist[$query]}" batch_query_request.sh
+#sbatch --array [1-$scen]%500 --export=name="${dirlist[$query]}" batch_query_request_2.sh
+#sbatch --array [1-$scen]%500 --export=name="${dirlist[$query]}" batch_query_request_3.sh
+
+# TO RUN A SINGLE QUERY FOR ALL SCENARIOS: (match index of dirlist to desired query, or type out name of query xml)
+# sbatch --array [1-3840]%50 --export=name="${dirlist[9]}" batch_query_request.sh

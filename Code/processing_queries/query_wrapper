@@ -1,0 +1,12 @@
+dirlist=($(ls query_xml))
+numdirs=${#dirlist[@]}
+x=0
+scen=720
+
+while [ $x -lt $numdirs ]
+do
+	source ./run_all_queries $x $scen
+	x=$(( $x + 1 ))
+done
+
+### RUN WITH ./query_wrapper after typing chmod +x query_wrapper
