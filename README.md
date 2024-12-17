@@ -4,17 +4,20 @@ This repository contains the code used to generate the data and figures in the p
 
 # Reproducing the results
 This study consists of two steps:
- 1. Compiling, building, and running Global Change Analysis Model (GCAM), which represents the interactions between socioeconomic-climate-land-energy-water systems. In order to replicate aour experiment, the user should use GCAM with endogenous representation of hydropower with climate change impact feature implemented. The model is available 10.5281/zenodo.13863869.
- 2. Analysis
+ 1. **Compiling, building, and running Global Change Analysis Model (GCAM)**, which represents the interactions between socioeconomic-climate-land-energy-water systems. In order to replicate aour experiment, the user should use GCAM with endogenous representation of hydropower with climate change impact feature implemented. 
+ 2. **Querying relevant GCAM outputs** that are further used for analysis. We
+ 3. **Reproducing the figures** in the paper using the script in this repository.
 
-To run GCAM, 
-
-Any questions regarding this repository should be directed to gijoo.kim@tufts.edu
+To install and run GCAM scenarios, follow the instructions on https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.3. Be sure to download and compile the model at 10.5281/zenodo.13863869.
 
 # Contents
 The structure of this repository is as follows:
-1. Code
+1. Data: 
+2. 
+3. Code
 
 
 
-# References
+
+# Contact Information
+Any questions regarding this repository should be directed to gijoo.kim@tufts.edu
