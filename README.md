@@ -3,12 +3,14 @@
 This repository contains the code used to generate the data and figures in the paper "Mapping the future role of hydropower under global low-carbon transitions through large ensemble scenario discovery" by Kim et al., which is currently in revision.
 
 # Reproducing the results
-This study consists of two steps:
- 1. **Compiling, building, and running Global Change Analysis Model (GCAM)**, which represents the interactions between socioeconomic-climate-land-energy-water systems. In order to replicate aour experiment, the user should use GCAM with endogenous representation of hydropower with climate change impact feature implemented. 
- 2. **Querying relevant GCAM outputs** that are further used for analysis. We
- 3. **Reproducing the figures** in the paper using the script in this repository.
+This study consists of the following steps:
+ 1. **Compiling and building Global Change Analysis Model (GCAM)**, which represents the interactions between socioeconomic-climate-land-energy-water systems. In order to replicate our experiment, the user should use GCAM with endogenous representation of hydropower with climate change impact feature implemented which is available on a separate Zonodo repository.
+ 2. **Creating input files and running large ensemble GCAM runs.** The second step includes generating configuration files (xmls) that correspond to each GCAM run in the ensemble. We then run the simulation in parallel in a cluster-based HPC environment.
+ 3. **Querying relevant GCAM outputs** that are further used for analysis. After running GCAM, we query relevant outputs and process raw query results to a format that is convenient for later use.
+ 4. **Reproducing the figures** in the paper using the script in this repository.
 
-To install and run GCAM scenarios, follow the instructions on https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.3. Be sure to download and compile the model at 10.5281/zenodo.13863869.
+To install and run GCAM scenarios, follow the instructions on https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.3. Be sure to download and compile the specific version of the model, available at 10.5281/zenodo.13863869.
+After building GCAM, create input files a. 
 
 # Contents
 The structure of this repository is as follows:
