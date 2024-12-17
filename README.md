@@ -21,18 +21,20 @@ Reproducing the results from this study consists of the following steps:
 # Contents
 The structure of this repository is as follows:
 1. Data
+   * Processed_Data: folder containing processed data that are used for figure generation
    * mapping: folder containing shp files, csv files, and data used to make map figures
-   * Processed_Data: folder containing 
    * ipcc_glb_hydro: folder containing global hydropower projections from IPCC reports, SR15 (Huppmann et al. 2018) and AR6 (Byers et al. 2022).
-   * hist_HCF_EHP: folder containing historical hydropower capacity factor and exploitable hydropower potential
-   * fut_HCF_EHP: folder containing projected historical hydropower capacity factor and exploitable hydropower potential for 30 scenarios
+   * hist_HCF_EHP: folder containing historical hydropower capacity factor, exploitable hydropower potential, and streamflow
+   * fut_HCF_EHP: folder containing projected historical hydropower capacity factor and exploitable hydropower potential for 30 climate scenarios we consider. The folder "fut_Streamflow" is empty and should be populated by downloading the files from Zhao et al. (2023). 
 2. Code
-   * HCF_EHP_Analysis: contains codes to 
-   * GCAM_Configuration: folder containing 2 base configuration xmls and 2,160 configuration xml files used for ensemble generation
    * processing_queries: folder containing codes to run query outputs
+   * HCF_EHP_Analysis: folder containing codes to project future HCF and EHP based on projected streamflow
+   * GCAM_Configuration: folder containing 2 base configuration xmls and 2,160 configuration xml files used for GCAM ensemble generation
    * Figure_Generation: folder containing codes used to generate figures in the paper
       * Figure1_HCF_EHP_Maps.ipynb: Code to generate Figure 1
       * Figure2_5_Hydro_Analysis.ipynb: Code to generate Figures 2-5
+   * Data_Processing: folder containing codes used to process data from raw query results
+   * CART_Analysis: folder containing codes to perform CART analysis
 3. README.md: this document, which contains instructions for reproducing the results of this study and the contents of the data repository.
 
 # Contact Information
