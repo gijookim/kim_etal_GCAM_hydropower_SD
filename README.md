@@ -16,7 +16,7 @@ This study consists of the following steps:
    - Transform csv files into xml files using the script in "Code/hydro_climate_impacts.R". The resulting files will be in "Code/addon_hydro."
    - After creating xmls for HCF and EHP, create configuration files for each GCAM run using the scripts in "Code/GCAM_Configuration" and run the ensemble (i.e., 2,160 configuration xmls). The resulting configuration xml files are in "Code/Configuration/config_ref" and "Code/Configuration/config_net."
 3.  Using the GCAM output database and query_xmls, run queries and process them. The list of queries used in this study are in "Code/processing_queries/query_xml" and are listed below. 
-   -  co2_emissions_by_sector_no_bio.xml, co2_emissions_by_tech.xml, elec_gen_by_gen_tech.xml, and luc_emissions_by_region.xml
+   - co2_emissions_by_sector_no_bio.xml, co2_emissions_by_tech.xml, elec_gen_by_gen_tech.xml, and luc_emissions_by_region.xml
 4. Following the codes in "Code/Data_Processing," process raw query data and reproduce the figures using the scripts in "Code/Figure_Generation."
 
 # Contents
