@@ -37,5 +37,7 @@ Any questions regarding this repository should be directed to gijoo.kim@tufts.ed
 
 # References
 Byers E, Krey V, Kriegler E, Riahi K, Schaeffer R, Kikstra J, et al. (2022). AR6 Scenarios Database 2022. https://doi.org/10.5281/ZENODO.5886911.
+
 Huppmann D, Kriegler E, Krey V, Riahi K, Rogelj J, Rose S, et al. (2018). IAMC 1.5°C Scenario Explorer and Data hosted by IIASA 2018. https://doi.org/10.22022/SR15/08-2018.15429.
+
 Zhao, M., Wild, T., & Vernon, C. (2023). Xanthos Output Dataset Under ISIMIP3b Selected CMIP6 Scenarios: 1850 - 2100 (v1.1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/2280839
