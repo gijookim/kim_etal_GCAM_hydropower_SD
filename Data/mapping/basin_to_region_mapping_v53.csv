@@ -1,0 +1,232 @@
+region,gcam_basin_name,Rmap_v53
+EU-15,ArcticIsl,Arctic Ocean Islands
+Canada,NWTerr,Northwest Territories
+Russia,SiberiaN,Siberia-North Coast
+Russia,SiberiaW,Siberia-West Coast
+Russia,KaraSea,Kara Sea Coast
+Russia,LenaR,Lena
+USA,PacArctic,Pacific and Arctic Coast
+European Free Trade Association,ScndnvN,Scandinavia-North Coast
+Russia,BarentsSea,Russia-Barents Sea Coast
+Canada,Mackenzie,Mackenzie
+European Free Trade Association,Iceland,Iceland
+EU-15,Sweden,Sweden
+EU-15,Finland,Finland
+Russia,DvinaRN,Northern Dvina
+Canada,HudsonBay,Hudson Bay Coast
+EU-15,Scotland,Scotland
+Russia,NevaR,Neva
+Russia,VolgaR,Volga
+Canada,CanAtl,Atlantic Ocean Seaboard
+EU-12,BalticSea,Baltic Sea Coast
+EU-15,DnkGrmCst,Denmark-Germany Coast
+Russia,NarvaR,Narva
+Canada,NelsonR,Saskatchewan-Nelson
+EU-15,Ireland,Ireland
+Europe_Eastern,DaugavaR,Daugava
+EU-15,EngWales,England and Wales
+Canada,FraserR,Fraser
+EU-15,EmsWeserR,Ems-Weser
+EU-12,OderR,Oder
+EU-12,WislaR,Wisla
+EU-15,ElbeR,Elbe
+EU-15,RhineR,Rhine
+EU-12,PolandCst,Poland Coast
+Canada,ChurchillR,Churchill
+EU-12,NemanR,Neman
+EU-15,ScheldtR,Scheldt
+Russia,RusCstSE,Russia-South East Coast
+Russia,UralR,Ural
+Europe_Eastern,DnieperR,Dnieper
+Canada,StLwrncR,St Lawrence
+EU-15,FranceCstW,France-West Coast
+China,Gobi,Gobi Interior
+Russia,AmurR,Amur
+EU-15,LoireR,Loire
+Central Asia,CaspianNE,Caspian Sea Coast
+EU-15,SeineR,Seine
+Europe_Eastern,BlackSeaN,Black Sea-North Coast
+Russia,YeniseiR,Yenisey
+Europe_Eastern,DniesterR,Dniester
+EU-15,ItalyCstE,Italy-East Coast
+Japan,Japan,Japan
+Central Asia,CaspianE,Caspian Sea-East Coast
+Russia,DonR,Don
+EU-12,DanubeR,Danube
+EU-15,AdrBlkSea,Adriatic Sea-Greece-Black Sea Coast
+Russia,ObR,Ob
+EU-15,PoR,Po
+Central Asia,AmuDaryaR,Amu Darya
+EU-15,ItalyCstW,Italy-West Coast
+EU-15,IberiaCst,Spain-Portugal-Atlantic Coast
+EU-15,FranceCstS,France-South Coast
+EU-15,RhoneR,Rhone
+Europe_Non_EU,MeditIsl,Mediterranean Sea-East Coast
+EU-15,Gironde,Gironde
+South Korea,Korea,North and South Korea
+China,BoHai,Bo Hai-Korean Bay-North Coast
+EU-15,SpainCstSE,Spain-South and East Coast
+Central Asia,LBalkash,Lake Balkash
+EU-15,TiberR,Tiber
+Europe_Non_EU,BlackSeaS,Black Sea-South Coast
+EU-15,TagusR,Tagus
+Middle East,CaspianSW,Caspian Sea-South West Coast
+EU-15,EbroR,Ebro
+EU-15,DouroR,Douro
+EU-15,MeditE,Mediterranean Sea Islands
+Central Asia,SyrDaryaR,Syr Darya
+China,ZiyaHe,Ziya He-Interior
+China,ChinaCst,China Coast
+China,HuangHeR,Huang He
+Africa_Northern,MeditS,Mediterranean South Coast
+EU-15,GuadianaR,Guadiana
+Middle East,Iran,Central Iran
+EU-15,GuadalqR,Guadalquivir
+Middle East,TigrEuphR,Tigris-Euphrates
+China,Tarim,Tarim Interior
+Africa_Northern,AfrCstNW,Africa-North West Coast
+Africa_Eastern,NileR,Nile
+Middle East,PersianGulf,Persian Gulf Coast
+Pakistan,IndusR,Indus
+South Asia,FarahrudR,Farahrud
+Mexico,MexBaja,Baja California
+China,Tibet,Plateau of Tibet Interior
+Middle East,RedSeaE,Red Sea-East Coast
+Middle East,ArabianP,Arabian Peninsula
+Middle East,DeadSea,Dead Sea
+Mexico,MexCstNW,Mexico-Northwest Coast
+South Asia,Helmand,Helmand
+Africa_Northern,SinaiP,Sinai Peninsula
+Middle East,EJrdnSyr,Eastern Jordan-Syria
+Africa_Eastern,AfrCstNE,Africa-Red Sea-Gulf of Aden Coast
+Central America and Caribbean,Caribbean,Caribbean
+Pakistan,HamuMashR,Hamun-i-Mashkel
+Taiwan,Taiwan,Taiwan
+Pakistan,ArabianSea,Arabian Sea Coast
+Mexico,MexGulf,North Gulf
+China,Yangtze,Yangtze
+India,SabarmatiR,Sabarmati
+China,XunJiang,Xun Jiang
+Southeast Asia,Hong,Hong-Red River
+India,GangesR,Ganges-Bramaputra
+Mexico,YucatanP,Yucatan Peninsula
+China,SChinaSea,South China Sea Coast
+India,MahiR,Mahi
+Mexico,MexInt,Mexico-Interior
+Mexico,MexCstW,Pacific Central Coast
+Southeast Asia,BengalBay,Bay of Bengal-North East Coast
+India,TaptiR,Tapti
+India,BengalW,Yasai
+Southeast Asia,Phlppns,Philippines
+India,BrahmaniR,Brahamani
+India,MahanadiR,Mahandi
+India,GodavariR,Godavari
+China,Hainan,Hainan
+Southeast Asia,Mekong,Mekong
+Southeast Asia,VietnamCst,Viet Nam-Coast
+China,Salween,Salween
+India,IndCstNE,India North East Coast
+India,IndCstW,India West Coast
+Mexico,Papaloapan,Papaloapan
+Mexico,RioLerma,Rio Lerma
+Mexico,RioVerde,Rio Verde
+Mexico,GrijUsuR,Grijalva-Usumacinta
+Mexico,RioBalsas,Rio Balsas
+Central America and Caribbean,CntAmer,Southern Central America
+Mexico,Tehuantpc,Isthmus of Tehuantepec
+Southeast Asia,IrrawaddyR,Irrawaddy
+Southeast Asia,SittaungR,Sittang
+Southeast Asia,MalaysiaP,Peninsula Malaysia
+India,KrishnaR,Krishna
+Africa_Western,AfrCstW,Africa-West Coast
+South America_Northern,SAmerCstN,Caribbean Coast
+Africa_Northern,AfrIntN,Africa-North Interior
+India,IndCstE,India East Coast
+Southeast Asia,ChaoPhrR,Chao Phraya
+India,PennarR,Pennar
+Southeast Asia,ThaiGulf,Gulf of Thailand Coast
+Africa_Western,NigerR,Niger
+Africa_Western,LChad,Lake Chad
+Africa_Western,SenegalR,Senegal
+India,CauveryR,Cauvery
+South Asia,SriLanka,Sri Lanka
+India,IndCstS,India South Coast
+Brazil,OrinocoR,Orinoco
+South America_Southern,ColEcuaCst,Colombia-Ecuador-Pacific Coast
+Indonesia,IdnE,Palau and East Indonesia
+Southeast Asia,BorneoCstN,North Borneo Coast
+Africa_Western,VoltaR,Volta
+South America_Northern,SAmerCstNE,Northeast South America-South Atlantic Coast
+Africa_Western,GuineaGulf,Gulf of Guinea
+Indonesia,Sumatra,Sumatra
+Indonesia,Sulawesi,Sulawesi
+Indonesia,Kalimantan,Kalimantan
+Colombia,MagdalenaR,Magdalena
+Indonesia,IrianJaya,Irian Jaya Coast
+Brazil,AmazonR,Amazon
+South America_Southern,ChileCstS,South Chile-Pacific Coast
+Africa_Eastern,ShebJubR,Shebelli-Juba
+Africa_Southern,AfrCstE,Africa-East Central Coast
+Brazil,BrzCstN,North Brazil-South Atlantic Coast
+Southeast Asia,PapuaCst,Papua New Guinea Coast
+Brazil,TocantinsR,Tocantins
+Indonesia,JavaTimor,Java-Timor
+Southeast Asia,SolomonIsl,Solomon Islands
+Africa_Eastern,Madagascar,Madasgacar
+Southeast Asia,SepikR,Sepik
+Africa_Eastern,RiftValley,Rift Valley
+South America_Southern,PeruCst,Peru-Pacific Coast
+Southeast Asia,FlyR,Fly
+Africa_Southern,AngolaCst,Angola-Coast
+Africa_Western,CongoR,Congo
+Australia_NZ,AusCstN,Australia-North Coast
+Southeast Asia,NewCaledn,South Pacific Islands
+Brazil,BrzCstE,East Brazil-South Atlantic Coast
+Brazil,ParnaibaR,Parnaiba
+Africa_Southern,ZambeziR,Zambezi
+Australia_NZ,AusCstE,Australia-East Coast
+Africa_Southern,AfrCstSE,Africa-Indian Ocean Coast
+Australia_NZ,AusCstW,Australia-West Coast
+Brazil,SaoFrancR,Sao Francisco
+Australia_NZ,AusInt,Australia-Interior
+South Africa,OrangeR,Orange
+Brazil,BrzCstS,Uruguay-Brazil-South Atlantic Coast
+Africa_Southern,AfrCstSW,Namibia-Coast
+Africa_Southern,AfrIntS,Africa-South Interior
+South Africa,AfrCstS,South Africa-South Coast
+South Africa,LimpopoR,Limpopo
+South America_Southern,LaPuna,La Puna Region
+Australia_NZ,NewZealand,New Zealand
+Australia_NZ,AusCstS,Australia-South Coast
+Argentina,MarChiq,Mar Chiquita
+South Africa,AfrCstSSW,South Africa-West Coast
+Argentina,Salinas,Salinas Grandes
+Brazil,RioLaPlata,La Plata
+South America_Southern,ChileCstN,North Chile-Pacific Coast
+Australia_NZ,MurrayDrlg,Murray-Darling
+Argentina,Pampas,Pampas Region
+Argentina,ArgCstN,North Argentina-South Atlantic Coast
+Australia_NZ,Tasmania,Tasmania
+Argentina,ArgColoR,South America-Colorado
+Argentina,NegroR,Negro
+Argentina,Patagonia,Central Patagonia Highlands
+Argentina,ArgCstS,South Argentina-South Atlantic Coast
+USA,California,California River
+USA,MissppRN,Upper Mississippi
+USA,MissppRS,Lower Mississippi River
+USA,UsaColoRN,Upper Colorado River
+USA,UsaColoRS,Lower Colorado River
+USA,GreatBasin,Great
+USA,MissouriR,Missouri River
+USA,ArkWhtRedR,Arkansas White Red
+USA,TexasCst,Texas Gulf Coast
+USA,UsaCstSE,South Atlantic Gulf
+Canada,GreatLakes,Great Lakes
+USA,OhioR,Ohio River
+USA,UsaPacNW,Pacific Northwest
+USA,TennR,Tennessee River
+USA,RioGrande,Rio Grande River
+USA,UsaCstNE,New England
+USA,UsaCstE,Mid Atlantic
+USA,Hawaii,Hawaii
+India,NarmadaR,Narmada

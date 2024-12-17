@@ -1,0 +1,46 @@
+sector,VAR
+comm heating,Buildings
+comm others,Buildings
+comm cooling,Buildings
+process heat dac,Direct air capture
+airCO2,Direct air capture
+electricity,Electricity
+elec_biomass (IGCC CCS),Bioenergy
+elec_biomass (conv CCS),Bioenergy
+bio electricity,Bioenergy
+elec_coal (IGCC CCS),Electricity
+elec_coal (conv pul CCS),Electricity
+elec_gas (CC CCS),Electricity
+elec_refined liquids (CC CCS),Electricity
+H2 central production,Industry
+H2 forecourt production,Industry
+N fertilizer,Industry
+backup_electricity,Electricity
+cement,Industry
+csp_backup,Electricity
+industrial energy use,Industry
+industrial feedstocks,Industry
+process heat cement,Industry
+delivered biomass,Bioenergy
+delivered gas,Other energy transform
+gas pipeline,Other energy transform
+gas processing,Other energy transform
+refined liquids enduse,Other energy transform
+refined liquids industrial,Other energy transform
+wholesale gas,Other energy transform
+district heat,Other energy transform
+refining,Bioenergy
+unconventional oil,Other energy transform
+resid others,Buildings
+resid heating,Buildings
+resid cooling,Buildings
+trn_aviation_intl,Transportation
+trn_freight,Transportation
+trn_freight_road,Transportation
+trn_pass,Transportation
+trn_pass_road,Transportation
+trn_pass_road_LDV,Transportation
+trn_pass_road_LDV_4W,Transportation
+trn_shipping_intl,Transportation
+LUC,Land use change
+CO2 LUC,Land use change
