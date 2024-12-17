@@ -11,12 +11,13 @@ This study consists of the following steps:
 
 # Detailed explanations for each step
 1. To install and run GCAM scenarios, follow the instructions on https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.3. Be sure to download and compile the specific version of the model, available at 10.5281/zenodo.13863869.
-2. After building GCAM, create input and configuration xml files that will be later used when running GCAM.
-   - Among 8 factors we vary in our ensemble, 6 factors are publically available and only 2 factors (HCF and EHP) are created exogenously from this study. The raw streamflow data used in this study to project future HCF and EHP is available at Zhao et al. (2023). Follow the steps from the script in the folder "HCF_EHP_Analysis" to fit regression models, project future HCF and EHP in 5-year time steps, and create xml files that are further used as input to GCAM.
-   - Transform csvs into xmls  
+2. After building GCAM, create input xmls and configuration xml files that will be used when running GCAM ensemble.
+   - Among 8 factors we vary in our ensemble, 6 factors are publically available and only 2 factors (HCF and EHP) are created exogenously from this study. The raw streamflow data used in this study to project future HCF and EHP is available at Zhao et al. (2023). Follow the steps from the script in the folder "Code/HCF_EHP_Analysis" to fit regression models, project future HCF and EHP in 5-year time steps, and create csv files.
+   - Transform csv files into xml files using the script in the folder "".  
    - After creating xmls for HCF and EHP, create configuration files for each GCAM run using the scripts in GCAM_Configuration and run the ensemble (i.e., 2,160 configuration xmls). 
-4. Using the GCAM output database and query_xmls, the list of queries used in this study are listed below.
-5. 
+3. Using the GCAM output database and query_xmls, run queries and process them. The list of queries used in this study are listed below.
+   - 
+4. Reproduce the figures using the scripts in the folder "Code/Figure_Generation."
 
 # Contents
 The structure of this repository is as follows:
