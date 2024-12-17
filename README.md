@@ -30,14 +30,7 @@ The structure of this repository is as follows:
    * Figure_Generation: contains codes used to generate figures in the paper
       * Figure1_HCF_EHP_Maps.ipynb: Code to generate Figure 1
       * Figure2_5_Hydro_Analysis.ipynb: Code to generate Figures 2-5
-
- 
-8. Query
-   * elec_gen_by_gen_tech
-   * co2_emissions_by_tech
-   * co2_emissions_by_sector_no_bio
-   * luc_emissions_by_region
-
+3. README.md: this document, which contains instructions for reproducing the results of this study and the contents of the data repository.
 
 # Contact Information
 Any questions regarding this repository should be directed to gijoo.kim@tufts.edu
