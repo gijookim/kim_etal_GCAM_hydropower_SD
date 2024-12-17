@@ -14,8 +14,8 @@ This study consists of the following steps:
 2. After building GCAM, create input xmls and configuration xml files that will be used when running GCAM ensemble.
    - Among 8 factors we vary in our ensemble, 6 factors are publically available and only 2 factors (HCF and EHP) are created exogenously from this study. The raw streamflow data used in this study to project future HCF and EHP is available at Zhao et al. (2023). Follow the steps from the script in the folder "Code/HCF_EHP_Analysis" to fit regression models, project future HCF and EHP in 5-year time steps, and create csv files.
    - Transform csv files into xml files using the script in the folder "".  
-   - After creating xmls for HCF and EHP, create configuration files for each GCAM run using the scripts in GCAM_Configuration and run the ensemble (i.e., 2,160 configuration xmls). 
-3. Using the GCAM output database and query_xmls, run queries and process them. The list of queries used in this study are listed below.
+   - After creating xmls for HCF and EHP, create configuration files for each GCAM run using the scripts in GCAM_Configuration and run the ensemble (i.e., 2,160 configuration xmls).
+3.  Using the GCAM output database and query_xmls, run queries and process them. The list of queries used in this study are listed below.
    - 
 4. Reproduce the figures using the scripts in the folder "Code/Figure_Generation."
 
